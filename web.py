@@ -36,9 +36,7 @@ a = st.text_input(label="",
 # print(a)
 # print("hello")
 
-st.session_state
-
-
+# st.session_state
 
 #  this entrire scipt is run once again, when the user reloads the webpage
 
