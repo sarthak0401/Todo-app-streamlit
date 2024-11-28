@@ -24,3 +24,10 @@
 
 
 - This is the URL for the streamlit cloud deployment : https://sarthak0401-todo-app-streamlit-web-gypuem.streamlit.app/ 
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sarthak-bokade-1a0321224/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Connect_with_me-blue?logo=linkedin&logoColor=white">
+  </a>
+</div>
