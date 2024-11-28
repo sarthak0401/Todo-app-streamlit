@@ -12,11 +12,6 @@ st.title("My Todo application")
 st.subheader("This is my todo app")
 st.write("In this app is created to improve the productivity of the user")
 
-# st.checkbox("Buy the groceries")
-# st.checkbox("Throw the trash")
-# st.checkbox("Buy mangoes")
-
-
 
 for index,todo in enumerate(todos):
     checkbox = st.checkbox(todo, key=todo)
@@ -34,8 +29,6 @@ a = st.text_input(label="",
                   key="new_todo")
 
 # print(a)
-# print("hello")
-
 # st.session_state
 
 #  this entrire scipt is run once again, when the user reloads the webpage
